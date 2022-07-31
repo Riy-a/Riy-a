@@ -10,7 +10,7 @@
 <a href="mailto:riyasingh6392@gmail.com?" target="blank"><img align="center" src="https://user-images.githubusercontent.com/78693959/179521570-5f22e77c-6a35-4fa9-9e3a-5c09ba16db03.png" height="30" width="40"
 /></a>
 <a href="https://linkedin.com/in/riya-singh-779786205" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="riya-singh-779786205" height="30" width="40" /></a>
-<a href="https://instagram.com/__.riyaa.__1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="__.riyaa.__1" height="30" width="40" /></a>
+
 </p>
 
 
