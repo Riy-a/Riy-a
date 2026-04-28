@@ -16,4 +16,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=riy-a&count_private=true&show_icons=true&theme=radical" alt="riy-a" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com?user=riy-a&theme=dark" /></p>
-![snake gif](https://raw.githubusercontent.com/Riy-a/Riy-a/output/github-snake.svg)
+<p align="left">
+  <img src="https://raw.githubusercontent.com/Riy-a/Riy-a/output/github-snake.svg" />
+</p>
